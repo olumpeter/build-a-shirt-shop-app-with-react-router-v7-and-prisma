@@ -1,0 +1,13 @@
+.app-container {
+    display: block;
+    font-family: sans-serif;
+    min-width: 300px;
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+h1 {
+    text-align: center;
+    margin-left: 18px;
+    font-size: 24px;
+}
