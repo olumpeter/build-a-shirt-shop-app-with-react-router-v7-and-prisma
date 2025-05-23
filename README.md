@@ -1,3 +1,7 @@
+# Source of this project
+
+[Full Stack Type Safety with Angular, Nest, Nx, and Prisma by Ryan Chenkie](https://www.prisma.io/blog/full-stack-typesafety-with-angular-nest-nx-and-prisma-CcMK7fbQfTWc)
+
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
